@@ -10,7 +10,7 @@ Updated CSS to add thicker borders in timeblocks and change border color. Added 
 Used bootstrap to create and style rows
 
 ### Screenshot
-![Webpage Screenshot](/Assets/passwordGenerator.JPG)
+![Webpage Screenshot](/Assets/workday-scheduler.JPG)
 
 ### Site Link
 https://will-pikus.github.io/Workday-Scheduler/
