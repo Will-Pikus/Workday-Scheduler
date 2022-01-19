@@ -51,7 +51,7 @@ function updateTime() {
 // Load schedule from local storage
 function loadTimeBlocks(){
     for (var i=0; i < textAreaArray.length; i++){
-        textAreaArray[i].text = localStorage.getItem("time-block" + textAreaArray[i].data("hour"));
+        textAreaArray[i].text(localStorage.getItem("time-block" + textAreaArray[i].data("hour")));
     }
 }
 
